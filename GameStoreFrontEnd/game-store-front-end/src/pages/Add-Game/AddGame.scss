@@ -1,0 +1,5 @@
+@import '../../mixins';
+.AddGame{
+    @include main-style();
+    gap:3rem;
+}
